@@ -19,7 +19,7 @@ const body = css`
 
 const Background = styled.div`
     background-image: url(${background});
-    background-size: contain;
+    background-size: cover;
 
     position: fixed;
     z-index: -1;
