@@ -1,9 +1,9 @@
 {
-  "name": "hyper-voxel",
+  "name": "cabio-sphn",
   "version": "1.0.0",
   "private": true,
-  "description": "hyper-voxel",
-  "author": "Gabriel",
+  "description": "Site do Centro Acadêmico de Biologia - Sociedade Paulista de História Natural",
+  "author": "Voxel",
   "keywords": [
     "gatsby"
   ],
