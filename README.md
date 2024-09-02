@@ -7,9 +7,3 @@ Por enquanto, quase nada. Mas calma lá também, acabei de começar essa parada 
 
 ## O que precisa ser feito?
 Praticamente tudo. Novamente: calma aí, pô!
-
-## Dores de cabeça
-Listinha de dores de cabeça a serem resolvidas:
-* A fonte da barra de navegação não está mostrando acentos;
-    * Já tentei: mudar o unicode-range, colocar outros formatos de fonte, definir o charset da página pra UTF-8.
-    * Arquivos importantes: ```src/fonts/Ananias/Ananias.tsx```, ```src/fonts/Typopgraphy.tsx```, ```src/layout/Menu/Menu.tsx```
